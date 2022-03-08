@@ -2,12 +2,12 @@
 I just wanna do what i wanna do: Collaberate to create projects.
 
 Curently learning:
-<ol>
+<ul>
   <li>C#</li>
   <li>Javascript</li>
   <li>C</li>
   <li>Java</li>
-</ol>
+</ul>
 
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Fusiom&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
