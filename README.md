@@ -1,11 +1,15 @@
 ### Hello there fellow devlopers <>
 I just wanna do what i wanna do: Collaberate to create projects.
 
-Curently learning C#, Javascript, C and Java
-
+Curently learning:
+<ol>
+  <li>C#</li>
+  <li>Javascript</li>
+  <li>C</li>
+  <li>Java</li>
+</ol>
 
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Fusiom&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Paul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Super-Fusiom&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Fusiom&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
