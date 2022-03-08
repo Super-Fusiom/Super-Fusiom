@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there fellow devlopers <>
+I just wanna do what i wanna do: Collaberate to create projects.
+
+Curently learning C#, Javascript, C and Java
+
 
 <!--
 **Super-Fusiom/Super-Fusiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
