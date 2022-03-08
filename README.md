@@ -4,7 +4,8 @@ I just wanna do what i wanna do: Collaberate to create projects.
 Curently learning C#, Javascript, C and Java
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Super-Fusiom&show_icons=True&theme=dark)](https://github.com/Super-Fusiom/github-contribution-stats/)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Fusiom&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Super-Fusiom/Super-Fusiom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
