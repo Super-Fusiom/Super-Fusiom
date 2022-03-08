@@ -1,4 +1,11 @@
-### Hello there fellow devlopers <>
+<style>
+  body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+</style>
+
+
+### Hello there fellow developers <>
 I just wanna do what i wanna do: Collaberate to create projects.
 
 Curently learning:
@@ -8,6 +15,8 @@ Curently learning:
   <li>C</li>
   <li>Java</li>
 </ul>
+
+<hr>
 
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Fusiom&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
