@@ -1,9 +1,3 @@
-<style>
-  body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-</style>
-
 
 ### Hello there fellow developers <>
 I just wanna do what i wanna do: Collaberate to create projects.
