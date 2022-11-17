@@ -5,10 +5,12 @@ I just wanna do what i wanna do: Collaberate to create projects.
 Curently learning:
 <ul>
   <li>C#</li>
-  <li>Javascript</li>
+  <li>Javascript/Typescript</li>
   <li>C</li>
-  <li>Java</li>
+  <li>Python</li>
 </ul>
+
+Mainly I'm looking into Javascript due to Web Development, However I'm considering other lanaguages for backend
 
 <hr>
 
