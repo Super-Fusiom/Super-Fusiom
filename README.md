@@ -4,7 +4,7 @@ I just wanna do what i wanna do: Solving problems.
 
 Curently learning:
 <ul>
-  <li>Go/li>
+  <li>Go</li>
   <li>Typescript</li>
   <li>C</li>
   <li>Python</li>
