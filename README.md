@@ -1,16 +1,17 @@
 
 ### Hello there fellow developers <>
-I just wanna do what i wanna do: Collaberate to create projects.
+I just wanna do what i wanna do: Solving problems.
 
 Curently learning:
 <ul>
-  <li>C#</li>
-  <li>Javascript/Typescript</li>
+  <li>Go/li>
+  <li>Typescript</li>
   <li>C</li>
   <li>Python</li>
+  <li>Bash</li>
 </ul>
 
-Mainly I'm looking into Javascript due to Web Development, However I'm considering other lanaguages for backend
+Mainly I'm looking into Typescript due to Web Development, However I'm considering other lanaguages for backend
 
 <hr>
 
