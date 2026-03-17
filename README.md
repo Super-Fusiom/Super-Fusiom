@@ -1,17 +1,19 @@
 
 ### Hello there fellow developers <>
-I just wanna do what i wanna do: Solving problems.
+I just wanna do what i wanna do: Solving problems and *networking*
 
-Curently learning:
+Langs to Learn:
 <ul>
   <li>Go</li>
-  <li>Typescript</li>
+  <li><s>Typescript</s></li>
   <li>C</li>
   <li>Python</li>
   <li>Bash</li>
 </ul>
 
-Mainly I'm looking into Typescript due to Web Development, However I'm considering other lanaguages for backend
+Just got my Ham license and working torwords CompTIA A+ and Cisco CCNA
+
+Also own a 52TB server with ZFS (RAID Z2/ RAID 6)
 
 <hr>
 
